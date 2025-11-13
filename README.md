@@ -206,8 +206,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Chege-jr0)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/paul-gikonyo-15389418b/)
+- GitHub: [@Chege-jr0](https://github.com/Chege-jr0)
+- LinkedIn: [Paul Gikonyo](https://www.linkedin.com/in/paul-gikonyo-15389418b/)
 - Email: paulgikonyo100@gamil.com
 
 ## 🙏 Acknowledgments
@@ -223,6 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. World Bank. (2024). *World Development Indicators*
 3. African Union. (2022). *Report on Illicit Financial Flows from Africa*
 4. Mauro, P. (1995). *Corruption and Growth*. The Quarterly Journal of Economics
+
 
 
 
