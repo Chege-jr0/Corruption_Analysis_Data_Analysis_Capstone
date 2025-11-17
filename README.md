@@ -136,12 +136,9 @@ bq query --use_legacy_sql=false < sql/data_transformation.sql
 1. **Data Collection**: Downloaded CPI data and fetched World Bank indicators via API
 2. **Data Cleaning**: Handled missing values, standardized country codes (ISO3), normalized time periods
 3. **Data Integration**: Joined datasets on country code and year in BigQuery
-4. **Feature Engineering**: Created derived metrics (YoY changes, regional averages, corruption categories)
 
 ### Analysis Approach
 - **Correlation Analysis**: Pearson correlation coefficients between CPI and economic indicators
-- **Time Series Analysis**: Trend identification and lag analysis (1-3 year lags)
-- **Regression Modeling**: Linear regression to quantify corruption's impact on GDP growth
 - **Segmentation**: Countries grouped by CPI score ranges (0-30, 31-50, 51-70, 71-100)
 - **Outlier Detection**: Identified countries with unexpected economic performance
 
@@ -182,12 +179,10 @@ bq query --use_legacy_sql=false < sql/data_transformation.sql
 
 The Tableau dashboard includes:
 
-- **Scatter Plot**: CPI Score vs GDP Growth Rate with trend lines
+- **Scatter Plot**: CPI Score vs GDP Growth Rate
 - **Geographic Heat Map**: Corruption levels across Africa with tooltip economic data
-- **Time Series**: Country-level corruption and GDP trends (2010-2023)
-- **Bar Charts**: Top 10 and Bottom 10 countries by CPI score and economic performance
-- **Correlation Matrix**: Relationships between all variables
-- **Interactive Filters**: By year, region, country, and CPI category
+- **Bar Charts**: Countries by Corruption Perception Index.
+- **Interactive Filters**: By year and country.
 
 ## 🤝 Contributing
 
@@ -223,6 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. World Bank. (2024). *World Development Indicators*
 3. African Union. (2022). *Report on Illicit Financial Flows from Africa*
 4. Mauro, P. (1995). *Corruption and Growth*. The Quarterly Journal of Economics
+
 
 
 
