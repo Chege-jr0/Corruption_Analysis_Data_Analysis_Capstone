@@ -6,6 +6,10 @@ A data analytics project exploring the relationship between corruption levels an
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-BigQuery-4285F4.svg)](https://cloud.google.com/bigquery)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+Here is the link to my Technical Article: https://medium.com/@paulgikonyo100/analyzing-corruptions-economic-impact-across-africa-a-data-analytics-project-496504428919.
+
+The project presentation : https://africa-growth-audit.lovable.app/
+
 ## 🎯 Project Overview
 
 This project investigates whether higher corruption correlates with slower GDP growth and reduced foreign direct investment (FDI) across African nations. By combining Transparency International's Corruption Perceptions Index (CPI) with World Bank economic indicators, the analysis provides data-backed insights into how governance quality influences economic performance.
@@ -218,6 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. World Bank. (2024). *World Development Indicators*
 3. African Union. (2022). *Report on Illicit Financial Flows from Africa*
 4. Mauro, P. (1995). *Corruption and Growth*. The Quarterly Journal of Economics
+
 
 
 
